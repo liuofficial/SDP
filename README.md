@@ -18,7 +18,7 @@
 
 ## Bibtex
 ```
-@ARTICLE{9681709,
+@ARTICLE{SDP,
   author={Liu, Jianjun and Wu, Zebin and Xiao, Liang},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={A Spectral Diffusion Model for Unsupervised Hyperspectral Image Super-Resolution}, 
