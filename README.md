@@ -23,9 +23,9 @@
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={A Spectral Diffusion Model for Unsupervised Hyperspectral Image Super-Resolution}, 
   year={2024},
-  volume={},
+  volume={62},
   number={},
-  pages={},
+  pages={1-13},
   doi={10.1109/TGRS.2024.3449073}
 }
 ```
