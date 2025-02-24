@@ -1,4 +1,4 @@
-# A Spectral Diffusion Model for Unsupervised Hyperspectral Image Super-Resolution, IEEE TGRS, 2024
+# A Spectral Diffusion Prior for Unsupervised Hyperspectral Image Super-Resolution, IEEE TGRS, 2024
 
 ## files
 ### `SDP.py`, `blind.py`, `data/data_info.py`, `model/*`, `utils/*`
@@ -25,7 +25,7 @@
 @ARTICLE{SDP,
   author={Liu, Jianjun and Wu, Zebin and Xiao, Liang},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={A Spectral Diffusion Model for Unsupervised Hyperspectral Image Super-Resolution}, 
+  title={A Spectral Diffusion Prior for Unsupervised Hyperspectral Image Super-Resolution}, 
   year={2024},
   volume={62},
   number={},
